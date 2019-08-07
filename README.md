@@ -32,6 +32,14 @@ Note: these queries were tested against the GoodSales Demo workspace
 * select {attr.owner.id},{attr.owner.region},{attr.owner.department},{afSEwRwdbMeQ} as Won
 * select [/gdc/md/pid/obj/1284] as Won
 
+## Screenshots
+
+### Query
+![Screenshot showing a query result](https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-query.png =511x271)
+
+### Introspection
+![Screenshot showing a list of columns](https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-introspection.png =511x271)
+
 ## Grammar
 
 ```
