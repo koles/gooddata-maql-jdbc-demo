@@ -10,7 +10,7 @@ A proof of concept code to demonstrate integration of GoodData analytical engine
 
 ## Getting started
 
-1. Run `mvn package` to build the `jdbc4maql-0.1.jar` file in the `target` folder
+1. Building from the source: TBD
 2. Include the built jar file in the Java classpath of your SQL client or your reporting tool
 3. Use the following parameters when setting up your JDBC connection:
   - Driver class name: `com.gooddata.maql.jdbc.driver.Driver`
