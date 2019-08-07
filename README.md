@@ -1,2 +1,4 @@
 # gooddata-maql-jdbc-demo
-A demo code for integrating GoodData analytic engine with 3rd party reporting or visualization tool. For demo and education purposes only.
+A proof of concept code to demonstrate integration of GoodData analytical engine with 3rd party reporting or visualization tool. For demo and education purposes only.
+
+Original version developed by Jakub Sterba
