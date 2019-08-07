@@ -34,11 +34,11 @@ Note: these queries were tested against the GoodSales Demo workspace
 
 ## Screenshots
 
-### Query
-![Screenshot showing a query result](https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-query.png =511x271)
+A query result:
+https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-query.png
 
-### Introspection
-![Screenshot showing a list of columns](https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-introspection.png =511x271)
+A list of metrics:
+https://raw.githubusercontent.com/koles/gooddata-maql-jdbc-demo/documentation/maql4jdbc-introspection.png
 
 ## Grammar
 
