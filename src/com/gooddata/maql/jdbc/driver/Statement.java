@@ -62,11 +62,11 @@ public class Statement implements java.sql.Statement {
 	}
 
 	@Override
-	public ResultSet executeQuery(String sql) throws SQLException {
+	public java.sql.ResultSet executeQuery(String sql) throws SQLException {
 		// TODO Auto-generated method stub
 		logger.info("jdbc4maql: statement executeQuery sql:"+sql);
         execute(sql);
-		return null;
+		return getResultSet();
 	}
 
 	@Override
